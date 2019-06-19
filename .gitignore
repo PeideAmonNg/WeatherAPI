@@ -1,0 +1,6 @@
+.settings/
+target/
+weatherdb/
+.classpath
+.project
+derby.log
